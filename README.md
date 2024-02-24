@@ -1,6 +1,7 @@
 
 # react-native-elapsed-realtime
-
+Get the duration since the lastest restarting on iOS/Android.
+***NOTE: It was created for react 0.41.2. Would be nice to have PR to update it.***
 ## Getting started
 
 `$ npm install react-native-elapsed-realtime --save`

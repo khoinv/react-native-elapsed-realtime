@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-elapsed-realtime",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": " A module provide getting system uptime, that don't pause while device is asleep ",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,7 @@
   ],
   "author": "khoinv <khoinvbg@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/khoinv/react-native-elapsed-realtime",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
